@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20210125-0004232-NIS_REGULAR_Invoices-1613-TCUNION001#VN-P-61649-CFN_2.jpg</filename>
+	<path>C:\Users\Arpit\Desktop\tensorflow1\models\research\object_detection\images\test\20210125-0004232-NIS_REGULAR_Invoices-1613-TCUNION001#VN-P-61649-CFN_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1699</width>
+		<height>2202</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>date</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>420</ymin>
+			<xmax>686</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

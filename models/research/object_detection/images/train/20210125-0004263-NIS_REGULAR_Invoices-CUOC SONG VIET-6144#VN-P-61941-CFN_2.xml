@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20210125-0004263-NIS_REGULAR_Invoices-CUOC SONG VIET-6144#VN-P-61941-CFN_2.jpg</filename>
+	<path>C:\Users\Arpit\Desktop\tensorflow1\models\research\object_detection\images\train\20210125-0004263-NIS_REGULAR_Invoices-CUOC SONG VIET-6144#VN-P-61941-CFN_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1703</width>
+		<height>2205</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>company_name</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>38</ymin>
+			<xmax>879</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>date</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1297</xmin>
+			<ymin>147</ymin>
+			<xmax>1457</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>total</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1293</xmin>
+			<ymin>1617</ymin>
+			<xmax>1511</xmax>
+			<ymax>1684</ymax>
+		</bndbox>
+	</object>
+</annotation>

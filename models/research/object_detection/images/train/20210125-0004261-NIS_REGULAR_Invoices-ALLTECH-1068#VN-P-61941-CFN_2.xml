@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20210125-0004261-NIS_REGULAR_Invoices-ALLTECH-1068#VN-P-61941-CFN_2.jpg</filename>
+	<path>C:\Users\Arpit\Desktop\tensorflow1\models\research\object_detection\images\train\20210125-0004261-NIS_REGULAR_Invoices-ALLTECH-1068#VN-P-61941-CFN_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1707</width>
+		<height>2206</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>date</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>342</ymin>
+			<xmax>727</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>
