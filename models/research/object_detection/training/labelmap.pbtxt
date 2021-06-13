@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'company_name'
+}
+
+item {
+  id: 2
+  name: 'total'
+}
+
+item {
+  id: 3
+  name: 'date'
+}
