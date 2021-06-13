@@ -22,7 +22,7 @@ else:
     import tensorflow as tf
 
 from PIL import Image
-from object_detection.utils import dataset_util
+from utils import dataset_util
 from collections import namedtuple, OrderedDict
 
 flags = tf.app.flags
@@ -34,18 +34,12 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
-    if row_label == 'nine':
+    if row_label == 'company_name':
         return 1
-    elif row_label == 'ten':
+    elif row_label == 'total':
         return 2
-    elif row_label == 'jack':
+    elif row_label == 'date':
         return 3
-    elif row_label == 'queen':
-        return 4
-    elif row_label == 'king':
-        return 5
-    elif row_label == 'ace':
-        return 6
     else:
         None
 
